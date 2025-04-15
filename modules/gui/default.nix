@@ -1,3 +1,3 @@
 {
-	imports = [ ./sway.nix ./greetd.nix ./fonts.nix ./foot.nix ];
+	imports = [ ./sway.nix ./fonts.nix ./foot.nix ./software.nix ];
 }
