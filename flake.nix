@@ -1,5 +1,5 @@
 {
-	description = "SISO -- universal recovery ISO";
+	description = "SISO -- Universal (Super) recovery ISO";
 
 	inputs = {
 		nixpkgs.url = "github:nixos/nixpkgs/nixos-24.11";
