@@ -1,3 +1,3 @@
 {
-	imports = [ ./minimal.nix ./gui ];
+	imports = [ ./minimal.nix ./gui ./login.nix ];
 }
