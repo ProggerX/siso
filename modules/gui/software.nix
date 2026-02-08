@@ -8,7 +8,6 @@
 		binwalk
 		usbutils
 		pciutils
-		arch-install-scripts
 		grub2
 		efibootmgr
 		gparted
